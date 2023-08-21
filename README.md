@@ -3,6 +3,7 @@ Tarea 1.1 Maldonado Fernandez Cristian
 
 ![Inf1 1](https://github.com/jzavalar/Informatica/assets/142453680/9ad6fca3-40fc-4057-bc99-f0b9ef39e051)
 
+
 *Alan Turing*
 [![image](https://github.com/jzavalar/Informatica/assets/142453680/892f6ad7-93c7-490c-a353-ea50909614fb)](url)
 *Tommy Flowers*
