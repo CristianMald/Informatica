@@ -10,3 +10,5 @@ Tarea 1.1 Maldonado Fernandez Cristian
 [![image](https://github.com/jzavalar/Informatica/assets/142453680/d4a24d42-7623-46aa-8547-e3b73b96d506)](url)
 
 ![Inf1 1 2](https://github.com/jzavalar/Informatica/assets/142453680/8f6ee540-bdf8-491d-8f97-fe9a92d7d0d0)
+
+[Siguiente Tarea](Tarea1,2.md)
