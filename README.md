@@ -5,7 +5,7 @@ Tarea 1.1 Maldonado Fernandez Cristian
 
 
 *Alan Turing*
-[![image](https://github.com/jzavalar/Informatica/assets/142453680/892f6ad7-93c7-490c-a353-ea50909614fb)](url)<img src="https://github.com/jzavalar/Informatica/assets/142453680/892f6ad7-93c7-490c-a353-ea50909614fb" alt= “” width="200" height="200">
+<img src="https://github.com/jzavalar/Informatica/assets/142453680/892f6ad7-93c7-490c-a353-ea50909614fb" alt= “” width="200" height="200">
 *Tommy Flowers*
 [![image](https://github.com/jzavalar/Informatica/assets/142453680/d4a24d42-7623-46aa-8547-e3b73b96d506)](url)
 
