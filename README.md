@@ -1,3 +1,16 @@
+---
+title: "INFORMATICA"
+author: "Cristian Yael Maldonado Fernandez"
+date: "20/08/2023"
+---
+
+# INFORMATICA
+
+
+
+
+
+
 # Informatica
 Tarea 1.1 Maldonado Fernandez Cristian
 
