@@ -1,15 +1,6 @@
-## INFORMATICA
-### Unidad 1
-Introducción:
-- [Reflexionar sobre la computadora digital, las ciencias de la computación y la informática] ()
-- Elemento 2
-- Elemento 3
+## Reflexionar sobre la computadora digital, las ciencias de la computación y la informática
 
-### Unidad 2
-Software:
+<img src="https://github.com/jzavalar/Informatica/assets/142453680/9ad6fca3-40fc-4057-bc99-f0b9ef39e051" height="400">
 
-### Unidad 3
-Sistemas operativos:
-
-### Unidad 4
-Bases de datos:
+*Alan Turing*
+*Tommy Flowers*
