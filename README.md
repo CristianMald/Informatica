@@ -2,7 +2,7 @@
 ### Unidad 1
 Introducción:
 - [Reflexionar sobre la computadora digital, las ciencias de la computación y la informática](Practica1.md)
-- Elemento 2
+- Partes y funciones de la computadora
 - Elemento 3
 
 ### Unidad 2
