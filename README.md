@@ -7,9 +7,12 @@ Introducción:
 
 ### Unidad 2
 Software:
+- Proximamente...
 
 ### Unidad 3
 Sistemas operativos:
+- Proximamente...
 
 ### Unidad 4
 Bases de datos:
+- Proximamente...
