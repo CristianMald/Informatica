@@ -1,4 +1,4 @@
-## Reflexionar sobre la computadora digital, las ciencias de la computación y la informática
+## La disciplina de la computación: contexto histórico, evolución e importancia
 
 ### Entregable 1
 <img src="Imagenes/1.jpg" height="400">
