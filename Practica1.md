@@ -1,6 +1,4 @@
 ## La disciplina de la computación: contexto histórico, evolución e importancia
-
-### Entregable 1
 <img src="Imagenes/1.jpg" height="400">
 <img src="Imagenes/2.jpg" height="400">
 
