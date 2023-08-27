@@ -1,15 +1,15 @@
 ## INFORMATICA
 ### Unidad 1
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-- Elemento 1
+Introducción:
+- Reflexionar sobre la computadora digital, las ciencias de la computación y la informática
 - Elemento 2
 - Elemento 3
 
 ### Unidad 2
-Proximamente:
+Software:
 
 ### Unidad 3
-Proximamente:
+Sistemas operativos:
 
 ### Unidad 4
-Proximamente:
+Bases de datos:
