@@ -1,7 +1,7 @@
 ## INFORMATICA
 ### Unidad 1
 Introducción:
-- Reflexionar sobre la computadora digital, las ciencias de la computación y la informática
+- [Reflexionar sobre la computadora digital, las ciencias de la computación y la informática] ()
 - Elemento 2
 - Elemento 3
 
