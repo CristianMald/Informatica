@@ -1,6 +1,6 @@
 ## La computadora y su contexto histórico
 ----
-<img src="Imagenes/1(1).jpg" height="400>
+<img src="Imagenes/1(1).jpg" height="400">
 
 ----
 | *Alan Turing*| *Tommy Flowers*| 
