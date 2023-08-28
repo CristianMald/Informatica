@@ -1,4 +1,4 @@
-## Adquisición de una computadora
+# Adquisición de una computadora
 
 ----
 
