@@ -7,6 +7,10 @@
 
 ----
 
+> Aqui va un video
+
+----
+
 > [*Siguiente*](Practica3.md)
 
 > [*Anterior*](Practica1.md)
