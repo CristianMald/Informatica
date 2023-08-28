@@ -3,7 +3,8 @@
 ----
 
 <img src="Imagenes/1(1).jpg" height="400">
->la reflexion continua en la siguiente practica
+
+> La reflexion continua en la siguiente practica
 
 ----
 | *Alan Turing*| *Tommy Flowers*| 
