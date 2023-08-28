@@ -28,4 +28,9 @@ Según esta lista podemos encontrar en ML estas opciones:
 De segunda mano encontramos: 
 
 [Esta es muy similar y se adecua a nuestras necesidades, a parte es mucho mas barata que la que armamos (4200$)](https://articulo.mercadolibre.com.mx/MLM-1465047369-computadora-gamer-basica-completa-8gb-de-ram-y-500-gb-_JM#position=4&search_layout=stack&type=item&tracking_id=05fbaa99-c5a3-451c-94a3-6b2e5f2a89d1)
+
+
+> [*Siguiente*](Practica5.md)
+
+> [*Anterior*](Practica3.md)
                 
