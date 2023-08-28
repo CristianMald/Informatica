@@ -1,4 +1,4 @@
-## La disciplina de la computación: contexto histórico, evolución e importancia
+## La computadora y su contexto histórico
 <img src="Imagenes/1(1).jpg" wigth="100">
 
 *Alan Turing*
