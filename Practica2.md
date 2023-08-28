@@ -7,7 +7,7 @@
 
 ----
 
-> Aqui va un video
+> - [ ]Aqui va un video
 
 ----
 
