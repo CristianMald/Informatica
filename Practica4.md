@@ -37,7 +37,7 @@ De segunda mano encontramos:
 ----
 **Tabla de criterios comparativa**
 
-<img src="Imagenes/11.jpg" height="300">
+<img src="Imagenes/11.jpg" height="450">
 
 ----
 
