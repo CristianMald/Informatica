@@ -5,4 +5,3 @@
 <img src="Imagenes/7(1).jpg" height="400">
 
 
-<video src="rata.mp4" height="480">
