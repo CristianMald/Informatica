@@ -1,4 +1,4 @@
-## Partes y funciones de la computadora
+# Partes y funciones de la computadora
 
 ----
 
