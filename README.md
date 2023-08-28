@@ -3,9 +3,10 @@
 
 ### Unidad 1
 Introducción:
-- [La disciplina de la computación: contexto histórico, evolución e importancia](Practica1.md)
-- [Partes y funciones de la computadora](Practica2.md)
-- [Adquisición de una computadora](Practica3.md)
+- [La computadora y su contexto histórico](Practica1.md)
+- [La disciplina de la computación: contexto histórico, evolución e importancia](Practica2.md)
+- [Partes y funciones de la computadora](Practica3.md)
+- [Adquisición de una computadora](Practica4.md)
 
 ### Unidad 2
 Software:
