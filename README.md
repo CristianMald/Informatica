@@ -1,4 +1,6 @@
-## INFORMATICA
+# INFORMATICA
+## Cristian Yael Maldonado Fernandez
+
 ### Unidad 1
 Introducción:
 - [La disciplina de la computación: contexto histórico, evolución e importancia](Practica1.md)
