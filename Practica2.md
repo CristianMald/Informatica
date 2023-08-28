@@ -4,4 +4,3 @@
 <img src="Imagenes/6(1).jpg" height="400">
 <img src="Imagenes/7(1).jpg" height="400">
 
-[![Video de ejemplo](videos/rata.mp4)](videos/rata.mp4)
