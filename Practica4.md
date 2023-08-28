@@ -13,7 +13,7 @@
 Mi limite sera 6000$ a partir de este presupuesto vamos a adaptar una Pc que cumpla con mis necesidades.
 Primero voy a enlistar mis necesidades:
 
-
+----
 | Componente      | Nombre | Valor |
 | --------- | --------- | -----:|
 | RAM | 8gb DDR4 (o mas) | 378$ |
