@@ -7,8 +7,7 @@
 
 ----
 
-> Aqui va un video
-[![Video 1]](https://youtu.be/OPC7NAn_m6c)
+https://github.com/CristianMald/Informatica/assets/142453680/dec2d3ff-bbe9-437d-8fe6-0bd31139e860
 
 ----
 
