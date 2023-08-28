@@ -2,6 +2,10 @@
 
 ----
 
+https://github.com/CristianMald/Informatica/assets/142453680/26eb9e58-7e4b-4ded-bfd6-a900764e4577
+
+----
+
 <img src="Imagenes/6(1).jpg" height="600">
 <img src="Imagenes/7(1).jpg" height="600">
 
@@ -20,7 +24,7 @@
 
 ----
 
-> Aqui va un video
+https://github.com/CristianMald/Informatica/assets/142453680/cd62ab3e-6824-4366-a0db-b4fba9b1f5ec
 
 ----
 
