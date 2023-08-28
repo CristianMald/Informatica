@@ -1,5 +1,5 @@
 ## La computadora y su contexto histórico
-<img src="Imagenes/1(1).jpg" wigth="100">
+<img src="Imagenes/1(1).jpg" height="100">
 
 *Alan Turing*
 <img src="https://github.com/CristianMald/Informatica/assets/142453680/46e9ae74-57e9-4e0f-8f93-6ec042b66681" width="200" height="300">
