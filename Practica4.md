@@ -41,7 +41,7 @@ De segunda mano encontramos:
 
 ----
 
-> Aqui va un video
+https://github.com/CristianMald/Informatica/assets/142453680/dbf4ff7e-0044-4c0d-97cf-844317aa8cb7
 
 ----
 
