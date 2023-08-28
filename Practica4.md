@@ -1,14 +1,15 @@
 ## Adquisición de una computadora
+----
 <img src="Imagenes/8(1).jpg" height="400">
 <img src="Imagenes/9(1).jpg" height="400">
 <img src="Imagenes/10(1).jpg" height="100">
-
+----
 **Parte 2. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.**
 
 Mi limite sera 6000$ a partir de este presupuesto vamos a adaptar una Pc que cumpla con mis necesidades.
 Primero voy a enlistar mis necesidades:
 
-----
+
 | Componente      | Nombre | Valor |
 | --------- | --------- | -----:|
 | RAM | 8gb DDR4 (o mas) | 378$ |
@@ -29,7 +30,7 @@ De segunda mano encontramos:
 
 [Esta es muy similar y se adecua a nuestras necesidades, a parte es mucho mas barata que la que armamos (4200$)](https://articulo.mercadolibre.com.mx/MLM-1465047369-computadora-gamer-basica-completa-8gb-de-ram-y-500-gb-_JM#position=4&search_layout=stack&type=item&tracking_id=05fbaa99-c5a3-451c-94a3-6b2e5f2a89d1)
 
-
+----
 > [*Siguiente*](Practica5.md)
 
 > [*Anterior*](Practica3.md)
