@@ -1,9 +1,13 @@
 ## Adquisición de una computadora
+
 ----
+
 <img src="Imagenes/8(1).jpg" height="400">
 <img src="Imagenes/9(1).jpg" height="400">
 <img src="Imagenes/10(1).jpg" height="100">
+
 ----
+
 **Parte 2. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.**
 
 Mi limite sera 6000$ a partir de este presupuesto vamos a adaptar una Pc que cumpla con mis necesidades.
