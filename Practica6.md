@@ -52,6 +52,11 @@
 
 #### Elija 10 emojis de su preferencia e identyifique el código para símbolo y genérelos utilizando ese código en LibreOffice
 
+| 😀 | 🤑 | 😱 | 😡 | 🤠 | 🍔 | 🖤 | ☢ | 👌 | ✌ |
+| :------------ |:---------------:| :---------------:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| U+1f600 | U+1f911 | U+1f631 | U+1f621 | U+1f920 | U+1f354 | U+1f5a4 | U+2622 | U+1f44c | U+270c |
+
+
 ----
 
 Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda
