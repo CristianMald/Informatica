@@ -22,11 +22,11 @@ Introducción:
 
 ### Unidad 2
 Software:
-- 2.1 [Conceptos básicos de software]()
-- 2.2 [Sistemas de codificación]()
-- 2.3 [Pseudocódigo]()
-- 2.4 [Algoritmos]()
-- 2.5 [De pseudocódigo a R]()
+- 2.1 [Conceptos básicos de software](Practica5.md)
+- 2.2 [Sistemas de codificación](Practica6.md)
+- 2.3 [Pseudocódigo](Practica7.md)
+- 2.4 [Algoritmos](Practica8.md)
+- 2.5 [De pseudocódigo a R](Practica9.md)
 
 ### Unidad 3
 Sistemas operativos:
