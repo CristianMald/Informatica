@@ -75,6 +75,9 @@ Proceso Parqueadero
 FinProceso
 
 ```
+Importante tener estas opciones:
+
+<img src="Imagenes/opciones.PNG" alt="UAM Iztapalapa" width="20%"/>
 
 ----
 
