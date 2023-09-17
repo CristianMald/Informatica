@@ -75,7 +75,7 @@ Proceso Parqueadero
 FinProceso
 
 ```
-Importante tener estas opciones:
+Importante tener estas opciones en PSeInt:
 
 <img src="Imagenes/opciones.PNG" alt="UAM Iztapalapa" width="20%"/>
 
