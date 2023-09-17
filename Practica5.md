@@ -31,6 +31,9 @@ texto, imágenes, sonidos, etc. Los datos son la materia prima que se utiliza en
 informática para realizar operaciones, tomar decisiones y generar resultados*
 
 - ***tipos de datos:***
+<img src="Imagenes/tabla2.PNG" alt="tabla1" width="50%"/>
+
+> [Esquema sacado de "Fundamentos de Computación para Ingenieros"](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596)
 
 - ***dato numérico:***
 *Los programas utilizados en arquitectura o en ingeniería que procesa una computadora
@@ -44,8 +47,23 @@ ellos, corregir ortografía, etcétera*
 
 - ***archivo:***
 
-- ***sistemas numéricos e información:***
 
+- ***sistemas numéricos e información:***
+*El concepto de número y el proceso de desarrollo del conteo han sido históricamente registrados a lo largo del tiempo; sin embargo, sólo es posible identificar sus inicios por medio de amplias conjeturas. Por ejemplo, para una tribu primitiva resultaba indispensable
+conocer cuántos miembros tenía en comparación con el número de integrantes de la tribu enemiga, así como a un pastor le era necesario determinar si su rebaño de ovejas había
+crecido en tamaño; para ello se valían de sus dedos, piedras, palos, muescas en madera y
+nudos en cuerdas, y las personas estaban habilitadas para conservar la cuenta del ganado
+y de otros elementos*
+
+**Ejemplos**
+  *Sistema Decimal:* Este es el sistema numérico que usamos en la vida cotidiana. Está basado en la base 10, lo que significa que utiliza diez símbolos diferentes (0 al 9) para representar todos los números
+  
+  *Sistema Binario:* El sistema binario se utiliza en informática y electrónica. Está basado en la base 2, lo que significa que utiliza solo dos símbolos (0 y 1) para representar números. Cada dígito en el sistema binario se llama "bit" (abreviatura de "binary digit")
+  
+  *Sistema Hexadecimal:* El sistema hexadecimal está basado en la base 16 y utiliza los dígitos del 0 al 9 y las letras A a F para representar números. Es comúnmente utilizado en programación y para representar direcciones de memoria en informática
+  
+  *Sistema Base-n:* Además de los mencionados anteriormente, existen sistemas numéricos en base-n, donde "n" es cualquier número entero. Estos sistemas utilizan "n" símbolos diferentes para representar números
+  
 ----
 
 #### Haga un mapa conceptual para organizar los conceptos en una jerarquía, hasta lograr la mejor claridad posible y páselo en limpio con ayuda de la herramienta CmapTools
