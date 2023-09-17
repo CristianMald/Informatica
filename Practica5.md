@@ -22,6 +22,7 @@ hacer referencia a una gran cantidad de bytes contenidos en un archivo o disposi
 memoria principal*
 
 <img src="Imagenes/tabla1.PNG" alt="tabla1" width="40%"/>
+
 > [Tabla sacada de "Fundamentos de Computación para Ingenieros"](https://libgen.rs/book/index.php?md5=93B1B3A032FA25F502EB136C35C52596)
 
 - ***dato:***
