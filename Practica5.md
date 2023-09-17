@@ -46,7 +46,9 @@ permiten corregir, borrar, justificar, mover, eliminar párrafos completos o só
 ellos, corregir ortografía, etcétera*
 
 - ***archivo:***
-
+*Un archivo, en informática, es una unidad de almacenamiento de datos que contiene información digital, como texto, imágenes, programas, documentos, hojas de cálculo, música, video, etc
+Los archivos son utilizados para organizar y almacenar datos en dispositivos de almacenamiento,
+como discos duros, unidades flash, CD-ROM, DVD y otros medios de almacenamiento digital*
 
 - ***sistemas numéricos e información:***
 *El concepto de número y el proceso de desarrollo del conteo han sido históricamente registrados a lo largo del tiempo; sin embargo, sólo es posible identificar sus inicios por medio de amplias conjeturas. Por ejemplo, para una tribu primitiva resultaba indispensable
@@ -55,14 +57,14 @@ crecido en tamaño; para ello se valían de sus dedos, piedras, palos, muescas e
 nudos en cuerdas, y las personas estaban habilitadas para conservar la cuenta del ganado
 y de otros elementos*
 
-**Ejemplos**
-  *Sistema Decimal:* Este es el sistema numérico que usamos en la vida cotidiana. Está basado en la base 10, lo que significa que utiliza diez símbolos diferentes (0 al 9) para representar todos los números
++ **Ejemplos:**
+  + *Sistema Decimal:* Este es el sistema numérico que usamos en la vida cotidiana. Está basado en la base 10, lo que significa que utiliza diez símbolos diferentes (0 al 9) para representar todos los números
   
-  *Sistema Binario:* El sistema binario se utiliza en informática y electrónica. Está basado en la base 2, lo que significa que utiliza solo dos símbolos (0 y 1) para representar números. Cada dígito en el sistema binario se llama "bit" (abreviatura de "binary digit")
+  + *Sistema Binario:* El sistema binario se utiliza en informática y electrónica. Está basado en la base 2, lo que significa que utiliza solo dos símbolos (0 y 1) para representar números. Cada dígito en el sistema binario se llama "bit" (abreviatura de "binary digit")
   
-  *Sistema Hexadecimal:* El sistema hexadecimal está basado en la base 16 y utiliza los dígitos del 0 al 9 y las letras A a F para representar números. Es comúnmente utilizado en programación y para representar direcciones de memoria en informática
+  + *Sistema Hexadecimal:* El sistema hexadecimal está basado en la base 16 y utiliza los dígitos del 0 al 9 y las letras A a F para representar números. Es comúnmente utilizado en programación y para representar direcciones de memoria en informática
   
-  *Sistema Base-n:* Además de los mencionados anteriormente, existen sistemas numéricos en base-n, donde "n" es cualquier número entero. Estos sistemas utilizan "n" símbolos diferentes para representar números
+  + *Sistema Base-n:* Además de los mencionados anteriormente, existen sistemas numéricos en base-n, donde "n" es cualquier número entero. Estos sistemas utilizan "n" símbolos diferentes para representar números
   
 ----
 
