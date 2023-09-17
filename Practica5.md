@@ -2,11 +2,6 @@
 
 ----
 
-https://github.com/CristianMald/Informatica/assets/142453680/26eb9e58-7e4b-4ded-bfd6-a900764e4577
-
-----
-
-
 #### Partes de mi computadora:
 
 + CPU ryzen 5 5600g
