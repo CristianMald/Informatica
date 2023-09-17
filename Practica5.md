@@ -74,6 +74,6 @@ y de otros elementos*
 
 ----
 
-> [*Siguiente*](Practica4.md)
+> [*Siguiente*](Practica6.md)
 
-> [*Anterior*](Practica2.md)
+> [*Anterior*](Practica4.md)
