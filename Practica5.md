@@ -70,6 +70,7 @@ y de otros elementos*
 
 #### Haga un mapa conceptual para organizar los conceptos en una jerarquía, hasta lograr la mejor claridad posible y páselo en limpio con ayuda de la herramienta CmapTools
 
+<img src="Imagenes/Soft.jpg" alt="tabla1" width="50%"/>
 
 ----
 
