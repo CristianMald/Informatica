@@ -2,7 +2,7 @@
 
 ----
 
-#### En equipo, investigue la definición formal de los conceptos básicos de software
+#### Investigue la definición formal de los sguientes conceptos básicos de software
 
 - ***BIT:***
 *Es la mínima pulsación electrónica que recibe una computadora (bit, binary digit: dígito
