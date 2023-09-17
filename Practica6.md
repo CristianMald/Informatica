@@ -18,11 +18,35 @@
 
 ----
 
-#### Identifique el código para cada carácter de su nombre y primer apellido y encuentre una función para generarlos utilizando ese código en LibreOffice portable (guía 1) y pruebe el siguiente convertidor Unicode online)
+#### Identifique el código para cada carácter de su nombre y primer apellido
+
+C R I S T I A N
+
+U+0043 U+0052 U+0049 U+0053 U+0054 U+0049 U+0041 U+004e 
+
+M A L D O N A D O
+
+U+004d U+0041 U+004c U+0044 U+004f U+004e U+0041 U+0044 U+004f
 
 ----
 
 #### Traduzca su nombre a tres tipos de caractares: Cirílico, Chino y Japonés e identyifique el código para cada símbolo y genere su nombre utilizando ese código en LibreOffice
+
+ESPAÑOL= CRISTIAN MALDONADO
+
+U+0043 U+0052 U+0049 U+0053 U+0054 U+0049 U+0041 U+004e U+004d U+0041 U+004c U+0044 U+004f U+004e U+0041 U+0044 U+004f
+
+CIRILICO= Кристиан Мальдонадо
+
+U+041a U+0440 U+0438 U+0441 U+0442 U+0438 U+0430 U+043d U+041c U+0430 U+043b U+044c U+0434 U+043e U+043d U+0430 U+0434 U+043e
+
+CHINO= 克里斯蒂安·马尔多纳多 
+
+U+514b U+91cc U+65af U+8482 U+5b89 U+00b7 U+9a6c U+5c14 U+591a U+7eb3 U+591a 
+
+JAPONES= クリスチャン・マルドナド
+
+U+30af U+30ea U+30b9 U+30c1 U+30e3 U+30f3 U+30fb U+30de U+30eb U+30c9 U+30ca U+30c9
 
 ----
 
@@ -31,8 +55,6 @@
 ----
 
 Documente en un video de hasta 10 minutos sus conclusiones y su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de Google Drive donde corresponda
-
-https://github.com/CristianMald/Informatica/assets/142453680/26eb9e58-7e4b-4ded-bfd6-a900764e4577
 
 ----
 
