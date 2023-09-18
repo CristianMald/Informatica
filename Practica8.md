@@ -51,26 +51,45 @@ FinProceso
 **Algoritmo 31**
 
 ```
-ALGORITMO: Adivinar
-DESCRIPCCION: Escribir un algoritmo que juegue a adivinar un número del siguiente modo: la máquina piensa un número entre 1 y 100 el  usuario debe averiguar dicho número. Para elle cada vez que el usuario sugiera un número el ordenador debe contestar con demasiado grande, demasiado pequeño o correcto (g/p/c). Se debe implementar un algoritmo eficiente que el número menor en el menor de intentos posibles.
-CONSTANTE: ---------------------------------------
-VARIABLE: Entero: n, x, d
 
-INICIO
-Leer n
-x= aleatorio ( )%100 +1
-Mientras (x-n!= 0) hacer
-Sí (abs(x-n)>10) entonces
-Escribir “Diferencia superior a 10”
-Fin _sí
-Sí no sí (abs(x-n<=10) entonces
-Escribir “Diferencia menor a 10”
-Fin _sí
-Sí no sí (x-n= 0) entonces
-Escribir “Número adivinado”
-Fin _sí
-Fin _para
-FIN
+Proceso Adivinar
+	Definir x,n,intentos Como Entero;
+	//en el ejercicio se define una variable d, no se para que, asi que no la use
+	
+	x= Aleatorio(1,100);
+	intentos=0;
+	
+	Escribir "¡Bienvenido al juego de adivina el número!";
+	Escribir "Estoy pensando en un número entre 1 y 100. ¡Adivina cuál es!";
+	
+	//	Escribir "El numero aleatorio es: " x;
+	
+	Repetir
+		
+		intentos= intentos +1;
+		Escribir "Intento ", intentos, ": Ingresa tu número: ";
+        Leer n;
+		Si n = x Entonces
+            Escribir "¡Correcto! Has adivinado el número en ", intentos, " intentos.";
+		SiNo 
+			si n < x Entonces
+				si x-n < 10 Entonces
+					Escribir "Demasiado pequeño, pero la diferencia es menor a 10. ¡Inténtalo de nuevo!";
+				SiNo
+					Escribir "Demasiado pequeño. Intenta de nuevo.";
+				FinSi
+			SiNo
+				si n-x < 10 Entonces
+					Escribir "Demasiado grande, pero la diferencia es menor a 10. ¡Inténtalo de nuevo!";
+				SiNo
+					Escribir "Demasiado grande. Intenta de nuevo.";
+				FinSi
+			FinSi
+		FinSi	
+		
+	HASTA QUE n=x	
+	
+FinProceso
 
 ```
 
