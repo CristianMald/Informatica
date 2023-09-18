@@ -50,7 +50,7 @@
 
 ----
 
-#### Elija 10 emojis de su preferencia e identyifique el código para símbolo y genérelos utilizando ese código en LibreOffice
+#### Elija 10 emojis de su preferencia e identifique el código para símbolo y genérelos utilizando ese código en LibreOffice
 
 | 😀 | 🤑 | 😱 | 😡 | 🤠 | 🍔 | 🖤 | ☢ | 👌 | ✌ |
 | :------------ |:---------------:| :---------------:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
