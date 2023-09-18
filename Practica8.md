@@ -53,6 +53,10 @@ FinProceso
 
 ```
 
+##Diagrama de flujo del algoritmo 13
+
+<img src="Imagenes/Df1.PNG" alt="DF" width="60%"/>
+
 **Algoritmo 31**
 
 ```
@@ -100,6 +104,10 @@ Proceso Adivinar
 FinProceso
 
 ```
+
+##Diagrama de flujo del algoritmo 13
+
+<img src="Imagenes/Df2.PNG" alt="DF" width="60%"/>
 
 ----
 
