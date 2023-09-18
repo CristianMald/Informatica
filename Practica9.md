@@ -1,17 +1,20 @@
-# Partes y funciones de la computadora
+# De pseudocódigo a R
 
 ----
 
-#### Partes de mi computadora:
+#### Luego, repase este tutorial de RMarkdown. Suba el archivo Programacion-en-Pseudocodigo.Rmd al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt
 
-+ CPU ryzen 5 5600g
-+ 2 Memorias Ram de 8Gb cada una a una velocidad de 3000 megahercios
-+ Un disco duro HDD de 1 terabyte
-+ Un disco SSD kingston de 250Gb
-+ Una tarjeta gráfica AMD radeon RX 6600 
-+ Placa madre Asus Tarjeta Madre Gaming B450
-+ Fuente de alimentación Thermaltake 600 Watts
-+ Gabinete normal ATX
+----
+
+#### Tome como base el tutorial Programacion-en-Pseudocodigo.Rmd e identifique las instrucciones equivalentes en R que encuentre en el tutorial de R. En el directorio respectivo del proyecto, cree un archivo RMarkdown que sea la síntesis 1 a 1 del tutorial Programacion en Pseudocodigo. Compílelo con knitr para generar el archivo HTML. El archivo RMarkdown es su entregable
+
+----
+
+#### Pruebe sus conocimientos implantando en un par de funciones en R, los algoritmos que implantó en PseInt en la Práctica 2.4. en un archivo RMarkdown, exponiendo en primer lugar el pseudocódigo y luego el código en R
+
+----
+
+#### Haga un video de la práctica de las partes 1 a 3 y R y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial y súbalo a su Google Drive
 
 ----
 
