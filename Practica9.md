@@ -18,6 +18,6 @@
 
 ----
 
-> [*Siguiente*](Practica4.md)
+> [*Siguiente*](Practica10.md)
 
-> [*Anterior*](Practica2.md)
+> [*Anterior*](Practica8.md)
