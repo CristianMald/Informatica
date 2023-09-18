@@ -12,6 +12,9 @@ Mi numero de lista es: 11
 
 ```
 
+//Maldonado Fernandez Cristian No.11
+//Practica 31 basada en Rodríguez (s.f.)
+
 Proceso PagoFinal
 	Definir nombre Como Caracter;
 	Definir precio, descuento, pagof Como Real;
@@ -53,6 +56,9 @@ FinProceso
 **Algoritmo 31**
 
 ```
+
+//Maldonado Fernandez Cristian No.11
+//Practica 31 basada en Rodríguez (s.f.)
 
 Proceso Adivinar
 	Definir x,n,intentos Como Entero;
