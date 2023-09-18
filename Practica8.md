@@ -5,6 +5,8 @@
 #### Primero, modifique y corrija el pseudocódigo propuesto por Rodríguez (s.f.), de acuerdo a las reglas de PseInt configuradas en el perfil "UNAM FCA" y de acuerdo a la estructura del algoritmo aprendida en la clase, en la lista de ejercicios, según su número de lista de grupo
 Mi numero de lista es: 11
 
+> Los archivos para esta practica de PSeInt estan en la carpeta /Archivos
+
 
 **Algoritmo 13**
 
