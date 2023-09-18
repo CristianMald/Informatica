@@ -13,7 +13,7 @@ Mi numero de lista es: 11
 ```
 
 //Maldonado Fernandez Cristian No.11
-//Practica 31 basada en Rodríguez (s.f.)
+//Practica 13 basada en Rodríguez (s.f.)
 
 Proceso PagoFinal
 	Definir nombre Como Caracter;
