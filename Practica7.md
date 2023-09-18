@@ -83,6 +83,9 @@ Importante tener estas opciones en PSeInt:
 
 Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda
 
+
+https://github.com/CristianMald/Informatica/assets/142453680/8b06fb44-62e5-4f77-82d5-87dc99b71c7b
+
 ----
 
 > [*Siguiente*](Practica8.md)
