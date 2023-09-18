@@ -105,7 +105,7 @@ FinProceso
 
 ```
 
-## Diagrama de flujo del algoritmo 13
+## Diagrama de flujo del algoritmo 31
 
 <img src="Imagenes/Df2.PNG" alt="DF" width="60%"/>
 
