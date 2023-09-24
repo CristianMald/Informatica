@@ -14,6 +14,18 @@
 
 #### Luego, repase este tutorial de RMarkdown. Suba el archivo Programacion-en-Pseudocodigo.Rmd al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt
 
+- Primero intale el packete **Knitr**
+ <img src="Imagenes/Knitr.PNG" width="50%"/>
+ 
+- Despues subi el archivo "Programacion-en-Pseudocodigo.Rmd"
+ <img src="Imagenes/Prog.PNG" width="50%"/>
+ 
+- Para convertir el archivo a HTML, use el codigo:
+ <img src="Imagenes/Cod.PNG" width="50%"/>
+ 
+- Y me creo el archivo final
+ <img src="Imagenes/Arch.PNG" width="50%"/>
+
 ----
 
 #### Tome como base el tutorial Programacion-en-Pseudocodigo.Rmd e identifique las instrucciones equivalentes en R que encuentre en el tutorial de R. En el directorio respectivo del proyecto, cree un archivo RMarkdown que sea la síntesis 1 a 1 del tutorial Programacion en Pseudocodigo. Compílelo con knitr para generar el archivo HTML. El archivo RMarkdown es su entregable
