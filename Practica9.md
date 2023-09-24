@@ -28,10 +28,6 @@
 
 ----
 
-#### Tome como base el tutorial Programacion-en-Pseudocodigo.Rmd e identifique las instrucciones equivalentes en R que encuentre en el tutorial de R. En el directorio respectivo del proyecto, cree un archivo RMarkdown que sea la síntesis 1 a 1 del tutorial Programacion en Pseudocodigo. Compílelo con knitr para generar el archivo HTML. El archivo RMarkdown es su entregable
-
-----
-
 #### Pruebe sus conocimientos implantando en un par de funciones en R, los algoritmos que implantó en PseInt en la Práctica 2.4. en un archivo RMarkdown, exponiendo en primer lugar el pseudocódigo y luego el código en R
 
 ----
