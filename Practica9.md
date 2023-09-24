@@ -26,6 +26,8 @@
 - Y me creo el archivo final
  <img src="Imagenes/Arch.PNG" width="50%"/>
 
+ <img src="Imagenes/ArchF.PNG" width="50%"/>
+
 ----
 
 #### Pruebe sus conocimientos implantando en un par de funciones en R, los algoritmos que implantó en PseInt en la Práctica 2.4. en un archivo RMarkdown, exponiendo en primer lugar el pseudocódigo y luego el código en R
