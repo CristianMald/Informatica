@@ -2,6 +2,13 @@
 
 ----
 
+#### En equipo, active su cuenta para usar RStudio en la nube. Cree un proyecto llamado Informatica. Aprenda lo básico de la ejecución de código R en un script. Luego, instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta lista.
+
+> Este es el link de mi perfil en donde realize la practica en PisitCloud [LINK](https://posit.cloud/content/6552430)
+> ***Es necesario el correo electronico para compartir con la opcion "Share Link"***
+
+----
+
 #### Luego, repase este tutorial de RMarkdown. Suba el archivo Programacion-en-Pseudocodigo.Rmd al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt
 
 ----
