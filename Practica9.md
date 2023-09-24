@@ -4,6 +4,8 @@
 
 #### En equipo, active su cuenta para usar RStudio en la nube. Cree un proyecto llamado Informatica. Aprenda lo básico de la ejecución de código R en un script. Luego, instale por lo menos dos entornos gráficos para R, adicionales a RStudio, de esta lista.
 
+<img src="Imagenes/Posit.png" alt="posit" width="50%"/>
+
 > Este es el link de mi perfil en donde realize la practica en PisitCloud [LINK](https://posit.cloud/content/6552430)
 
 > ***Es necesario el correo electronico para compartir con la opcion "Share Link"***
