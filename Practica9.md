@@ -118,7 +118,7 @@ repeat {
 
 #### Haga un video de la práctica de las partes 1 a 3 y R y reflexione sobre el potencial que tiene esta tecnología a modo de tutorial
 
-
+https://github.com/CristianMald/Informatica/assets/142453680/d1ab195a-3972-4806-90b4-a047aac46c76
 
 ----
 
