@@ -74,7 +74,7 @@ La gestión de particiones es una tarea importante que debes realizar con precau
 
 ----
 
-#### Haga un video 
+#### Haga un video (proximamente)
 
 ----
 
