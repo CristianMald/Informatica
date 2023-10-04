@@ -7,8 +7,6 @@
 **Clave de la UEA:** 2211088
 **Trimestre:** 23 Primavera
 
-**Asesorías:**  Martes* de 20:00 a 22:00 hr, vía [Telegram](https://telegram.org/apps), previa programación, a petición del alumno.
-
 **Profesor:** dr. Jesús Zavala Ruiz
 
 **Contacto**:
