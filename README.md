@@ -29,7 +29,11 @@ Software:
 
 ### Unidad 3
 Sistemas operativos:
-- Proximamente...
+- 3.1 [Licenciamiento de software](Practica10.md)
+- 3.2 [Instalación de sistemas operativos en un medio extraible](Practica11.md)
+- 3.3 [Instalación de sistemas operativos como máquinas virtuales](Practica12.md)
+- 3.4 [Particiones y sistemas de archivos](Practica13.md)
+- 3.5 [Particiones y sistemas de archivos](Practica14.md)
 
 ### Unidad 4
 Bases de datos:
