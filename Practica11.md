@@ -44,6 +44,9 @@ _UEFI, o "Unified Extensible Firmware Interface" (Interfaz de Firmware Extensibl
 
 _Partición física: Una partición física es una sección del disco duro o dispositivo de almacenamiento que se trata como una unidad independiente. Puede contener un sistema de archivos y datos, y es la forma en que se organiza y divide el espacio de almacenamiento en un disco duro._
 
+
+_Partición lógica: Las particiones lógicas son un tipo especial de partición que se encuentra dentro de una partición extendida en un disco duro. Una partición extendida es una partición primaria que actúa como un contenedor para las particiones lógicas. Las particiones lógicas no pueden utilizarse para el arranque directo del sistema operativo y generalmente se utilizan para organizar y administrar datos de almacenamiento adicionales en una partición primaria o extendida._
+
 _Partición de arranque: La partición de arranque es la partición en la que se instala el sistema operativo y desde la cual se inicia el proceso de arranque de la computadora. En sistemas Windows, esto generalmente se conoce como la "unidad C:". En sistemas basados en Linux, la partición de arranque a menudo se llama la "raíz" o "/" (barra)._
 
 5. GPT y MBR
