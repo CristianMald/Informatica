@@ -4,6 +4,8 @@
 
 #### Investigue qué es un sistema operativo, tipos de sistemas operativos y compárelos en términos de ventajas, desventajas, seguridad, usabilidad y robustez.
 
+<img src="Imagenes/12.jpg" width="60%"/>
+
 
 ----
 
