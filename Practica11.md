@@ -32,9 +32,13 @@ _Bootear (o arrancar) un equipo significa iniciar o cargar el sistema operativo 
 
 _BIOS significa "Basic Input/Output System" (Sistema Básico de Entrada/Salida). Es un software que se encuentra en la placa base de una computadora y se encarga de realizar tareas esenciales, como la inicialización del hardware y la configuración básica del sistema. El BIOS también contiene el firmware necesario para que la computadora pueda arrancar desde un dispositivo de almacenamiento, como un disco duro o una unidad USB._
 
+<img src="Imagenes/bios.jpg" width="60%"/>
+
 3. UEFI
 
 _UEFI, o "Unified Extensible Firmware Interface" (Interfaz de Firmware Extensible Unificada), es una tecnología más moderna que ha reemplazado en gran medida al BIOS. UEFI ofrece una interfaz más avanzada y flexible para el firmware de la computadora, lo que permite una mayor capacidad de configuración y opciones de arranque más avanzadas. A diferencia del BIOS, UEFI es capaz de arrancar sistemas operativos desde discos duros con particiones GPT (GUID Partition Table), entre otras ventajas._
+
+<img src="Imagenes/uefi.jpg" width="60%"/>
 
 4. partición (física y lógica, de arranque)
 
