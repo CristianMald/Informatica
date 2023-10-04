@@ -1,6 +1,7 @@
 # Licenciamiento de software
 
 ----
+
 #### Investigue los conceptos básicos de licenciamiento de software
                 
 1. propiedad intelectual en el caso del software
@@ -43,6 +44,22 @@
 13. la licencia GPL y la Free Software Foundation
   - La Licencia Pública General de GNU es una licencia de software libre y la Free Software Foundation es una organización que promueve el software libre.
   - El proyecto GNU utiliza la licencia GPL y es respaldado por la Free Software Foundation.
+
+----
+
+#### Notas sobre el video Revolución de los Sistemas Operativos
+
+----
+
+#### Compare los tres tipos de software (privativo, abierto y libre) en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP)
+
+----
+
+#### Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio.
+
+----
+
+#### Haga un video 
 
 ----
 
