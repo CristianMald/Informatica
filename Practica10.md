@@ -68,15 +68,16 @@
 |  | Seguridad y confianza |  |
 |  | Comunidad activa |  |
 
+
+
 ----
 
 #### Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio.
-
-
+(proximamente...)
 
 ----
 
-#### Haga un video 
+#### Haga un video (proximamente...)
 
 ----
 
