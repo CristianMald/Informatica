@@ -53,9 +53,26 @@
 
 #### Compare los tres tipos de software (privativo, abierto y libre) en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP)
 
+| Soft      | Ventajas | Desventajas |
+| --------- | --------- | ----- |
+| Software libre | Control total por parte del desarrollador | Falta de libertad |
+|  | Soporte técnico | Costo |
+|  | Facilidad de uso | Dependencia del proveedor |
+|  | Inversión en investigación y desarrollo |  |
+| Software abierto | Libertad de uso y modificación | Posible falta de soporte |
+|  | Comunidad de desarrollo | Mayor curva de aprendizaje |
+|  | Seguridad y transparencia |  |
+|  | Costo |  |
+| Software privativo | Libertad completa | Posible falta de soporte comercial |   
+|  | Énfasis en la ética | Menos énfasis en la facilidad de uso |
+|  | Seguridad y confianza |  |
+|  | Comunidad activa |  |
+
 ----
 
 #### Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio.
+
+
 
 ----
 
