@@ -5,6 +5,6 @@
 
 ----
 
-> [*Siguiente*](Practica12.md)
+> [*Siguiente*](Practica14.md)
 
-> [*Anterior*](Practica14.md)
+> [*Anterior*](Practica12.md)
