@@ -35,13 +35,13 @@
 #### Use una USB sin datos o nueva y practique los procesos de manejo de particiones (crear, cambiar de tamaño, fusionar y eliminar particiones en Windows con Disk Management, de los siguientes tipos: FAT, exFAT, FAT32, NTFS y EXT4. Saque sus conclusiones
 
 Para cambiar el tipo de sistema de archivos podemos formatear la USB (en este caso) y seleccionar el que se adecue
-- <img src="Imagenes/Pasos/form.png" width="60%"/>
+<img src="Imagenes/Pasos/form.png" width="60%"/>
 
 Ahora desde el administrador de discos
-- <img src="Imagenes/Pasos/ps1.png" width="60%"/>
+<img src="Imagenes/Pasos/ps1.png" width="60%"/>
 
 Vemos las opciones "*Extender*","*Reducir*","*Agregar*","*Eliminar*" volumen
-- <img src="Imagenes/Pasos/ps2.png" width="60%"/>
+<img src="Imagenes/Pasos/ps2.png" width="60%"/>
 
 - Extender volumen:
 Esta opción te permite aumentar el tamaño de una partición existente utilizando espacio no asignado contiguo en el mismo disco. Es útil cuando necesitas más espacio en una partición sin eliminar ninguna otra partición.
