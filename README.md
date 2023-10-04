@@ -1,4 +1,4 @@
-<img src="Imagenes/UAMI.png" alt="UAM Iztapalapa" width="60%"/>
+<img src="Imagenes/UAMI2.png" alt="UAM Iztapalapa" width="60%"/>
 
 # INFORMATICA
 ## Cristian Yael Maldonado Fernandez
