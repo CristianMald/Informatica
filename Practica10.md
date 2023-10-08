@@ -49,6 +49,13 @@
 
 #### Notas sobre el video Revolución de los Sistemas Operativos
 
+El documental comienza explicando cómo el movimiento del software libre se originó en la década de 1980 con la creación de la "Free Software Foundation" por Richard Stallman. Stallman inició el desarrollo del sistema operativo GNU como un sistema completamente libre y de código abierto.
+
+<img src="Imagenes/richard.jpg" width="60%"/>
+
+Aborda la importancia de las licencias de software y cómo la Licencia Pública General de GNU (GNU GPL) se convirtió en un pilar fundamental para garantizar que el software libre permaneciera libre. Se menciona el caso de la violación de la GPL por parte de empresas como Cisco y Linksys, a mediada que Linux se volvía más estable y poderoso, las empresas comenzaron a adoptarlo en sus servidores y estaciones de trabajo. Red Hat se destaca como una de las primeras empresas en ofrecer soporte comercial para Linux.
+Concluye discutiendo el futuro del software de código abierto y cómo continúa evolucionando y desafiando el statu quo en la industria de la tecnología.
+
 ----
 
 #### Compare los tres tipos de software (privativo, abierto y libre) en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP)
