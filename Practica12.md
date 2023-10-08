@@ -19,28 +19,28 @@ Pasos para instalar una _máquina virtual_ en Windows
 #### Instale VirtualBox en su sistema operativo Windows o el que tenga. Luego, instale el sistema operativo Fedora Workstation como una máquina virtual.
 
 - Primero descargamos el ejecutable del VirtualBox
-- <img src="Imagenes/Pasos/paso1.png" width="60%"/>
+<img src="Imagenes/Pasos/paso1.png" width="60%"/>
 - Lo intalamos
-- <img src="Imagenes/Pasos/paso2.png" width="60%"/>
+<img src="Imagenes/Pasos/paso2.png" width="60%"/>
 - Una vez intalado
-- <img src="Imagenes/Pasos/paso3.png" width="60%"/>
+<img src="Imagenes/Pasos/paso3.png" width="60%"/>
 - Lo abrimos
-- <img src="Imagenes/Pasos/paso4.png" width="60%"/>
+<img src="Imagenes/Pasos/paso4.png" width="60%"/>
 - Ahora creamos una nueva Maquina virtal, aqui elegimos el nombre de nuestra maquina, la carpeta de instalacion y la imagen ISO del SO de nuestra preferencia
-- <img src="Imagenes/Pasos/paso5.png" width="60%"/>
+<img src="Imagenes/Pasos/paso5.png" width="60%"/>
 - Yo usare el Fedora Workstation [Link](https://fedoraproject.org/es/workstation/download/)
-- <img src="Imagenes/Pasos/paso6.png" width="60%"/>
+<img src="Imagenes/Pasos/paso6.png" width="60%"/>
 - Asignamos la memoria RAM y los procesadores (No usar toda la del equipo)
-- <img src="Imagenes/Pasos/paso7.png" width="60%"/>
+<img src="Imagenes/Pasos/paso7.png" width="60%"/>
 - Asignamos cantidad de disco duro que ocupara nuestra maquina virtual
-- <img src="Imagenes/Pasos/paso8.png" width="60%"/>
+<img src="Imagenes/Pasos/paso8.png" width="60%"/>
 - Y ya esta creada!
-- <img src="Imagenes/Pasos/paso9.png" width="60%"/>
+<img src="Imagenes/Pasos/paso9.png" width="60%"/>
 - Ahora solo la iniciamos para probar si funciona bien
-- <img src="Imagenes/Pasos/paso10.png" width="60%"/>
-- <img src="Imagenes/Pasos/paso11.png" width="60%"/>
+<img src="Imagenes/Pasos/paso10.png" width="60%"/>
+<img src="Imagenes/Pasos/paso11.png" width="60%"/>
 - Y terminamos :D
-- <img src="Imagenes/Pasos/paso12.png" width="60%"/>
+<img src="Imagenes/Pasos/paso12.png" width="60%"/>
 
 ----
 
