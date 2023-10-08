@@ -78,6 +78,4 @@ La gestión de particiones es una tarea importante que debes realizar con precau
 
 ----
 
-> [*Siguiente*](Practica14.md)
-
 > [*Anterior*](Practica12.md)
