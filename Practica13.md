@@ -62,16 +62,6 @@ Al seleccionar "Eliminar volumen", eliminarás completamente la partición selec
 FAT, FAT32, exFAT, NTFS y EXT4 son sistemas de archivos con diferentes características y compatibilidades. La elección del sistema de archivos depende de tus ncesidades y del uso previsto de la unidad USB
 La gestión de particiones es una tarea importante que debes realizar con precaución, ya que puede resultar en la pérdida de datos si no se hace correctamente, las particiones se pueden crear, cambiar de tamaño, fusionar y eliminar según sea necesario
 
-
-
-----
-
-#### Repita las mismas operaciones de la Parte 3 de esta práctica usando la aplicación GParted Live CD/USB/HD/PXE Bootable Image copiando el archivo ISO en la USB con Ventoy y arrancando el ISO. Utilice este tutorial. Compare Disk Management y gParted y saque sus conclusiones
-
-----
-
-#### Practique la recuperación de particiones eliminadas con TestDisk (tutorial en video, tutorial escrito) en discos o dispositivos de almacenamiento formateados. También, practique la recuperación de dispositivos que no son reconocidos o que piden ser formateados, como una USB (tutorial)
-
 ----
 
 #### Haga un video (proximamente)
