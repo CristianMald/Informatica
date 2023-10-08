@@ -14,8 +14,8 @@
 
 ### Unidad 1
 Introducción:
-- 1.1 [La computadora y su contexto histórico](Practica1.md)
-- 1.2 [La disciplina de la computación: contexto histórico, evolución e importancia](Practica2.md)
+- 1.1 (Tarea) [La computadora y su contexto histórico](Practica1.md)
+- 1.2 (Tarea) [La disciplina de la computación: contexto histórico, evolución e importancia](Practica2.md)
 - 1.3 [Partes y funciones de la computadora](Practica3.md)
 - 1.4 [Adquisición de una computadora](Practica4.md)
 
