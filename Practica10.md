@@ -53,6 +53,8 @@ El documental comienza explicando cómo el movimiento del software libre se orig
 
 <img src="Imagenes/richard.jpg" width="60%"/>
 
+> *Richard Stallman*
+
 Aborda la importancia de las licencias de software y cómo la Licencia Pública General de GNU (GNU GPL) se convirtió en un pilar fundamental para garantizar que el software libre permaneciera libre. Se menciona el caso de la violación de la GPL por parte de empresas como Cisco y Linksys, a mediada que Linux se volvía más estable y poderoso, las empresas comenzaron a adoptarlo en sus servidores y estaciones de trabajo. Red Hat se destaca como una de las primeras empresas en ofrecer soporte comercial para Linux.
 Concluye discutiendo el futuro del software de código abierto y cómo continúa evolucionando y desafiando el statu quo en la industria de la tecnología.
 
