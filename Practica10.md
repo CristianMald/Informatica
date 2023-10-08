@@ -85,7 +85,7 @@ Concluye discutiendo el futuro del software de código abierto y cómo continúa
 
 Free/Libre Open Source Software o FLOSS 
 
-Ideologicamente creo que puede ser la solucion a muchos problemas actuales de privacidad del usuario, un software de este tipo puede dar la libertad que nos hace falta al momento de ejecutar, estudiar, modificar y distribuir el software, claro que para que un software de este tipo pueda llegar a estar en las maquinas de todo el mundo se necesita de un movimiento educacional que enseñe las ventajas y el uso de estos softwares, principalmente en los SO
+Ideológicamente creo que puede ser la solución a muchos problemas actuales de privacidad del usuario, un software de este tipo puede dar la libertad que nos hace falta al momento de ejecutar, estudiar, modificar y distribuir el software, claro que para que un software de este tipo pueda llegar a estar en las máquinas de todo el mundo se necesita de un movimiento educacional que enseñe las ventajas y el uso de estos softwares, principalmente en los SO
 
 Economicamente, las empresas pueden ahorrar dinero al adoptar FLOSS en lugar de software propietario, ya que no tienen que pagar licencias costosas. Esto puede ser especialmente beneficioso para startups y pequeñas empresas pero como comente arriba, para esto se necesita la capacitacion de los usuarios.
 
