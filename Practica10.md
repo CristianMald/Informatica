@@ -47,7 +47,7 @@
 
 ----
 
-#### Notas sobre el video Revolución de los Sistemas Operativos
+#### Notas sobre el video [Revolución de los Sistemas Operativos](https://www.youtube.com/watch?v=jfYBeWHc3GE)
 
 El documental comienza explicando cómo el movimiento del software libre se originó en la década de 1980 con la creación de la "Free Software Foundation" por Richard Stallman. Stallman inició el desarrollo del sistema operativo GNU como un sistema completamente libre y de código abierto.
 
