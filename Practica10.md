@@ -93,7 +93,7 @@ Es tanto una ideología como un modelo de negocio viable. Las empresas pueden ad
 
 ----
 
-#### Haga un video (proximamente...)
+https://github.com/CristianMald/Informatica/assets/142453680/934401fa-ce07-4658-b8f6-b5c406ebf57f
 
 ----
 
