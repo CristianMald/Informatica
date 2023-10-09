@@ -65,7 +65,7 @@ Pasos para instalar una _máquina virtual_ en Windows
 
 ----
 
-#### Haga un video de la práctica
+https://github.com/CristianMald/Informatica/assets/142453680/1edc675c-8cd4-4ef6-9782-aae51513d8ca
 
 ----
 
