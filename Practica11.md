@@ -57,7 +57,7 @@ _MBR (Master Boot Record): MBR es un formato de partición más antiguo que util
 
 ----
 
-#### Haga un video (proximamente...)
+https://github.com/CristianMald/Informatica/assets/142453680/6425dfbb-3847-4a23-b634-8dd4ccf9fa08
 
 ----
 
