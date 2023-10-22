@@ -33,7 +33,7 @@ Sistemas operativos:
 - 3.2 *(Práctica)*  [Instalación de sistemas operativos en un medio extraible](Practica11.md)
 - 3.3 *(Práctica)*  [Instalación de sistemas operativos como máquinas virtuales](Practica12.md)
 - 3.4 *(Práctica)*  [Particiones y sistemas de archivos](Practica13.md)
-- 3.5 *(Práctica)*  [Particiones y sistemas de archivos (repetido)](Practica14.md)
+- [Video de comprobación](Practica14.md)
 
 ### Unidad 4
 Bases de datos:
